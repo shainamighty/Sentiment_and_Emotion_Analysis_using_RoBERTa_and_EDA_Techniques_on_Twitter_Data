@@ -1,6 +1,6 @@
 # Sentiment_and_Emotion_Analysis_using_RoBERTa_and_EDA_Techniques_on_Twitter_Data
 
-# 🧠 Sentiment and Emotion Analysis on Twitter using RoBERTa and Traditional Models
+# Sentiment and Emotion Analysis on Twitter using RoBERTa and Traditional Models
 
 This repository presents a complete pipeline for analyzing public sentiment and emotions from Twitter data. We apply both traditional machine learning models (e.g., Logistic Regression, SVM) and transformer-based NLP models (e.g., RoBERTa) to classify tweets based on sentiment (Negative, Neutral, Positive) and emotion (Joy, Sadness, Anger, Optimism).
 ## 📂 Dataset Source
